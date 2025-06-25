@@ -1,9 +1,9 @@
 ---
-icon: link-simple
 description: Используется для пункта A3 правил игры
+icon: link-simple
 ---
 
-# Список разрешённых ресурсов
+# Список разрешённых доменных имён
 
 {% hint style="info" %}
 Если домен указан в списке разрешённых ресурсов, то разрешены также все его [поддомены](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD)
@@ -29,3 +29,4 @@ description: Используется для пункта A3 правил игр
 | [discordserver.info](https://discordserver.info/) [mon.lv](https://mon.lv/)                     | DiscordServer (monitoring), ДискордСервер (мониторинг) \| Discord, Дискорд               |
 | [server-discord.com](https://server-discord.com/)                                               | ServerDiscord (monitoring), СерверДискорд (мониторинг) \| Discord, Дискорд \| Vare, Вэйр |
 | [boticord.top](https://boticord.top/)                                                           | BotiCord (monitoring), БотиКорд (мониторинг) \| Discord, Дискорд                         |
+| [telegram.org](https://telegram.org) [t.me](https://t.me)                                       | Telegram, Телеграмм                                                                      |
