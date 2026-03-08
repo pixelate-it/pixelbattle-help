@@ -1,5 +1,22 @@
 ---
+description: Вступает в силу с 17 марта 2026 г.
 icon: handshake-simple
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Условия использования
@@ -54,3 +71,5 @@ Pixel Battle не проверяет все предоставляемые на 
 ### Регулирующее законодательство <a href="#legislation" id="legislation"></a>
 
 На все вопросы, не урегулированные настоящими условиями, распространяется законодательство Новой Зеландии.
+
+> Вступает в силу с 17 марта 2026 г.
