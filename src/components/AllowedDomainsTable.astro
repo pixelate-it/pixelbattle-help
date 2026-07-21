@@ -1,0 +1,29 @@
+---
+import { allowedDomains } from '../data/allowedDomains';
+---
+
+<table>
+	<thead>
+		<tr>
+			<th>Домен</th>
+			<th>Названия (для поиска по странце)</th>
+		</tr>
+	</thead>
+	<tbody>
+		{
+			allowedDomains.map((entry) => (
+				<tr>
+					<td>
+						{entry.domains.map((domain, i) => (
+							<>
+								{i > 0 && ' '}
+								<a href={domain.href}>{domain.label}</a>
+							</>
+						))}
+					</td>
+					<td>{entry.names}</td>
+				</tr>
+			))
+		}
+	</tbody>
+</table>
